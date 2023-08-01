@@ -1,0 +1,64 @@
+{
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "sugar",
+      "translated_name": [{ "fr": "Sucre en poudre" }],
+      "quantity": "200",
+      "unit": "grams",
+      "picture": "1-sugar.webp"
+    },
+    {
+      "id": 2,
+      "name": "milk",
+      "translated_name": [{ "fr": "Lait" }],
+      "quantity": "50",
+      "unit": "cl",
+      "picture": "2-milk.webp"
+    },
+    {
+      "id": 3,
+      "name": "flour",
+      "translated_name": [{ "fr": "Farine" }],
+      "quantity": "100",
+      "unit": "grams",
+      "picture": "3-flour.webp"
+    },
+    {
+      "id": 4,
+      "name": "vanilla",
+      "translated_name": [{ "fr": "Gousse de vanille" }],
+      "quantity": "1/2",
+      "unit": "gousse",
+      "picture": "4-vanilla.webp"
+    },{
+      "id": 5,
+      "name": "rhum",
+      "translated_name": [{ "fr": "Rhum" }],
+      "quantity": "3",
+      "unit": "spoons",
+      "picture": "5-rhum.webp"
+    },{
+      "id": 6,
+      "name": "egg-yolk",
+      "translated_name": [{ "fr": "Jaune d'oeuf" }],
+      "quantity": "2",
+      "unit": "units",
+      "picture": "6-egg-yolk.webp"
+    },{
+      "id": 7,
+      "name": "butter",
+      "translated_name": [{ "fr": "Beurre" }],
+      "quantity": "25",
+      "unit": "grams",
+      "picture": "7-butter.webp"
+    },{
+      "id": 8,
+      "name": "egg",
+      "translated_name": [{ "fr": "Oeufs entiers" }],
+      "quantity": "2",
+      "unit": "units",
+      "picture": "8-egg.webp"
+    },
+  ]
+}
