@@ -1,3 +1,5 @@
+# [Click here to view the site](https://twip4.github.io/candidatePaulBaudinot/result-template.html)
+
 # Your Goal
 
 ## Create the program
