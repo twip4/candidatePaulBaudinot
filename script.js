@@ -20,7 +20,7 @@ window.onload = function() {
                 ingredientsHtml += '</div>';
                 ingredientsHtml += '<div class="ingredient-info">';
                 ingredientsHtml += `<span>${ingredient.quantity} ${ingredient.unit}</span>`;
-                ingredientsHtml += `<span>de ${name}</span>`;
+                ingredientsHtml += `<span> de ${name}</span>`;
                 ingredientsHtml += '</div>';
                 ingredientsHtml += '</div>';
                 ingredientsHtml += '</div>';
